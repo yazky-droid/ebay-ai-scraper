@@ -27,7 +27,7 @@ graph TD
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ebay-ai-scraper.git
+   git clone https://github.com/yazky-droid/ebay-ai-scraper.git
    cd ebay-ai-scraper
    ```
 2. Install dependencies
